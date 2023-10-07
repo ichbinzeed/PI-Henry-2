@@ -30,7 +30,8 @@ ________________________________________________________________________________
 ## Distribucion de accidentes por comuna
 
 ![Alt text](image-18.png)
-
+### SE PUEDE APRECIAR QUE LA COMUNA 1 TIENE MAS ACCIDENTES
+### La comuna 1 está integrada por los barrios de Retiro, San Nicolás, Puerto Madero, San Telmo, Montserrat y Constitución
 ## Análisis de Calles que se Repiten: Se examinaron las calles que presentaban un alto número de accidentes viales. La avenida general paz tenia muchos accidentes y eso se debe a que es una autopista de 24,3 km de extensión
 
 ![Alt text](image-6.png)
