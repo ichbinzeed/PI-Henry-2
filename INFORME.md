@@ -27,6 +27,9 @@ ________________________________________________________________________________
 
 ![Alt text](image-16.png)
 
+## Distribucion de accidentes por comuna
+
+![Alt text](image-18.png)
 
 ## Análisis de Calles que se Repiten: Se examinaron las calles que presentaban un alto número de accidentes viales. La avenida general paz tenia muchos accidentes y eso se debe a que es una autopista de 24,3 km de extensión
 
@@ -65,7 +68,7 @@ ________________________________________________________________________________
 ![Alt text](image-14.png)
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-## Recomendaciones
+## Conclusion y Recomendaciones
 
 1. **Mayor Control y Concienciación en Salidas Nocturnas:**
    Dado que se observó una tendencia de accidentes durante la salida de boliches, sugiriendo una posible relación con el consumo de alcohol, se recomienda implementar un mayor control y concienciación sobre la importancia de no conducir bajo los efectos del alcohol en horas nocturnas. Esto podría incluir campañas de educación vial y patrullas de control en áreas cercanas a establecimientos nocturnos.
